@@ -27,3 +27,6 @@ $Q_n(x)$ - n-круговий многочлен
 $\mathbb{F}_q$ - поле
 
 $$\mathbb{F}_q ^{(n)} \simeq \mathbb{F}_{q^{\text{ord}_n(q)}}$$
+
+
+$$\frac{arctg(\frac{\sqrt{3}}{x(ux + 1)})}{\sqrt{3}} = \frac{1}{x} + C$$ 
